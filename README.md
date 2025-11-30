@@ -1,5 +1,4 @@
-# Adidas-case-study-Enhanced-visual-using-filter-and-relationship
-Power BI dashboard analyzing Adidas U.S. sales data, including total sales, profit, product performance, retailers, regions, and sales methods. Provides interactive insights on trends, profitability, and geographic performance for better decision-making.
+
 # Adidas Sales Performance Dashboard – Power BI Case Study
 
 This repository contains a complete Power BI dashboard built from an Adidas retail dataset.  
